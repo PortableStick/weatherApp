@@ -1,0 +1,38 @@
+.jumbotron{
+	background-color: $weatherBG;
+	margin-top: 15%;
+
+	.header{
+		border-bottom: solid $border-color 2px;
+		text-align: center;
+
+		h1{
+			color: $text-color;
+
+		}
+
+		h3{
+
+		}
+
+	}
+
+	.day{
+
+		font-size: 2.4em;
+		.weekday{
+
+		}
+	}
+
+	h3.error{
+		background-color: $errorBG;
+		text-align: center;
+		padding: 90px;
+		color: $error-text-color;
+		font-size: 3em;
+		text-transform: uppercase;
+	}
+
+}
+

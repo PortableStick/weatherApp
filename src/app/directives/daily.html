@@ -1,0 +1,8 @@
+<div class="row day" ng-repeat="day in daily">
+        
+    <div class="weekday col-xs-5">{{$index === 0 ? "Today" : day.time * 1000 | date:'EEEE'}}</div>
+    <div class="icon col-xs-1"><i class="wi wi-forecast-io-{{day.icon}}"></i></div>
+    <div class="high col-xs-3">High: {{day.temperatureMax | farenheit}}</div>
+    <div class="low col-xs-3">Low: {{day.temperatureMin | farenheit}}</div>
+
+</div> 

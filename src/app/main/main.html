@@ -1,13 +1,19 @@
 <div class="container">
   
-  <div class="jumbotron">
+  <div class="jumbotron" ng-model="switchStatus">
     <error ng-show="error"></error>
+    <form class="toggleSwitch">
+      <switch id="farenheit" name="farenheit" ng-model="temp" on="F" off="C" class="green"></switch>
+    </form>
     <div class="header">
       <current-weather ng-show="!error"></current-weather>
     </div>
-      
-      <daily-weather></daily-weather>
-
+      <div class="daily">
+        <daily-weather></daily-weather>
+      </div>
   </div>
   
 </div>
+<footer>
+  <h4 class="callout">Powered by <a href="https://www.forecast.io" target="_blank">Forecast.io</a></h4>
+</footer>

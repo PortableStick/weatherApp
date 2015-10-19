@@ -5,6 +5,11 @@ $light-grey-transparent				:	rgba(200,200,200,0.6);
 $dark-grey							:	#222;
 $error-red							:	#FF3F53;
 $offwhite							:	#f5f5f5;
+$light-blue							:	#3896FF;
+$dark-red							:	#742B3C;
+$dark-green							:	#367440;
+$light-brown						:	#F0EDD3;
+
 
 /* Color assignments
 ================================ */
@@ -14,3 +19,37 @@ $text-color							:	$dark-grey;
 $error-text-color					:	$offwhite;
 $border-color						:	$dark-grey;
 $errorBG							:	$error-red;
+$wind-arrow-color					:	$light-blue;
+$farenheitBG						: 	$dark-green;
+$celsiusBG							: 	$dark-red;
+$temperatureControlColor			:	$offwhite;
+$calloutBG							:	$light-blue;
+$calloutText						:	$offwhite;
+$calloutLink						:	$light-brown;
+
+/* Button size stuff
+================================ */
+
+$slide-width-sm						: 56px;
+$slide-height-sm					: $slide-width-sm / 1.733333;
+$button-width-sm					: $slide-width-sm / 3;
+$button-height-sm					: $slide-height-sm;
+$slide-length-sm					: $slide-width-sm - $button-width-sm;
+$switchTextDistance-sm				: 25%;
+
+$slide-width-md						: 90px;
+$slide-height-md					: $slide-width-md / 1.733333;
+$button-width-md					: $slide-width-md / 3;
+$button-height-md					: $slide-height-md;
+$slide-length-md					: $slide-width-md - $button-width-md;
+$switchTextDistance-md				: 25%;
+
+
+
+/* Media query breaks
+================================ */
+
+$break-xs							:550px; 
+$break-sm							:768px;
+$break-md							:992px;
+$break-ls							:1200px;

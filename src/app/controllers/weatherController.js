@@ -38,8 +38,7 @@
 
 
 				}).catch(function(error){
-					$log.log(error.error.message);
-					$scope.error = error.error.message;
+					$scope.error = error.message;
 				});
 
 		}]);

@@ -5,6 +5,7 @@
 	.header{
 		border-bottom: solid $border-color 2px;
 		text-align: center;
+		clear: both;
 
 		h1{
 			color: $text-color;
@@ -17,12 +18,15 @@
 
 	}
 
+	.daily{
+		margin-top: 20px;
+	}
+
 	.day{
-
-		font-size: 2.4em;
-		.weekday{
-
-		}
+		font-size: 1.5em;
+		@media screen and (min-width: $break-md) {
+			    font-size: 2.4em;
+			  }
 	}
 
 	h3.error{
@@ -34,5 +38,110 @@
 		text-transform: uppercase;
 	}
 
+	.wind{
+		color: $wind-arrow-color;
+	}
+
+	.toggleSwitch{
+		float: right;
+		clear: both;
+		margin-right: 20px;
+
+	    user-select: none;
+	    -webkit-touch-callout: none;
+	    -webkit-user-select: none;
+
+		.switch {
+ 			 /* frame */
+ 			width: $slide-width-sm;
+ 			height: $slide-height-sm;
+ 			background-color: $celsiusBG;
+ 			border-color: $celsiusBG;
+
+
+ 			small {
+		 	 /* button */
+		 	 width: $button-width-sm;
+		 	 height: $button-height-sm;
+			}
+
+			&.checked {
+		  	/* frame when enabled */
+		  	background-color: $farenheitBG;
+		  	border-color: $farenheitBG;
+			}
+
+			&.checked small {
+		  	/* button when enabled */
+		  	left: $slide-length-sm;
+			}
+
+			.switch-text{
+			font-size: 1.6em;
+			}
+			.on, .off{
+				top: 9%;
+				color: $temperatureControlColor;
+			}
+
+			.on{
+			left: $switchTextDistance-sm;
+
+			}
+
+			.off{
+			right: $switchTextDistance-sm;
+			}
+
+			@media screen and (min-width: $break-md){
+
+				width: $slide-width-md;
+ 				height: $slide-height-md;
+
+				.switch-text{
+					font-size: 2.2em;
+					}
+
+
+				&.checked small {
+				  	/* button when enabled */
+				  	left: $slide-length-md;
+					}
+
+				small {
+					 	 /* button */
+				  	width: $button-width-md;
+				 	height: $button-height-md;
+					}
+
+				.on{
+					left: $switchTextDistance-md;
+				}
+
+				.off{
+					right: $switchTextDistance-md;
+				}
+			}
+
+		} //end .switch
+
+	}
+
 }
 
+footer{
+
+		text-align:center;
+
+	.callout{
+		background-color: $calloutBG;
+		color: $calloutText;
+		display: inline-block;
+		padding: 20px;
+		border-radius: 45%;
+		a{
+			text-decoration: none;
+			color: $calloutLink;
+		}
+	}
+}

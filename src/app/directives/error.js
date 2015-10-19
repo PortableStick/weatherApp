@@ -7,7 +7,7 @@
 			return {
 				restrict: 'E',
 				templateUrl: 'app/directives/error.html'
-			}
+			};
 		});
 
 })()

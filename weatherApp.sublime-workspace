@@ -1,0 +1,1046 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dark",
+				"dark-yellow"
+			],
+			[
+				"butt",
+				"button-width"
+			],
+			[
+				"slide",
+				"slide-width"
+			],
+			[
+				"curren",
+				"currentPosition"
+			],
+			[
+				"incorr",
+				"incorrectAnswerBg"
+			],
+			[
+				"correc",
+				"correctAnswerBg"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"dark-",
+				"dark-blue"
+			],
+			[
+				"ingr",
+				"ingredients"
+			],
+			[
+				"ingre",
+				"ingredients"
+			],
+			[
+				"ingredi",
+				"ingredientCount"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"products",
+				"productsICanEat"
+			],
+			[
+				"contains",
+				"containsNuts"
+			],
+			[
+				"this",
+				"thisIndex"
+			],
+			[
+				"drag",
+				"dragOffset"
+			],
+			[
+				"drop",
+				"dropOffset"
+			],
+			[
+				"left",
+				"left_end"
+			],
+			[
+				"top",
+				"top_end"
+			],
+			[
+				"dra",
+				"dragOffset"
+			],
+			[
+				"conca",
+				"concatSrcArray"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-left",
+				"border-bottom-left-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-radius",
+				"border-bottom-left-radius"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"controller",
+				"controllerAlias"
+			],
+			[
+				"visualEle",
+				"visualElements"
+			],
+			[
+				"current",
+				"currentIndex"
+			],
+			[
+				"watch",
+				"watchFiles"
+			],
+			[
+				"concat",
+				"concatScripts"
+			],
+			[
+				"html",
+				"htmlStr"
+			],
+			[
+				"border-bto",
+				"border-bottom-style"
+			],
+			[
+				"listst",
+				"list-style"
+			],
+			[
+				"backroun",
+				"background-color"
+			],
+			[
+				"josey",
+				"josey"
+			],
+			[
+				"popu",
+				"populateCatData"
+			],
+			[
+				"c",
+				"catArray"
+			],
+			[
+				"catScore",
+				"catScoreHolder"
+			],
+			[
+				"nam",
+				"nameLabel"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"size",
+				"size	.size()"
+			],
+			[
+				"check",
+				"checkArray"
+			],
+			[
+				"mult",
+				"multiplyValuesTogether"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"create",
+				"createValuesFromRange"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/index.module.js",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/services/forecast.js",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/services/getCity.js",
+			"settings":
+			{
+				"buffer_size": 339,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/controllers/weatherController.js",
+			"settings":
+			{
+				"buffer_size": 1215,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsubl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app/controllers",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app/directives",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app/filters",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app/main",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app/services"
+	],
+	"file_history":
+	[
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app/main/main.html",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/index.html",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app/scss/_variables.scss",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/src/app/scss/main.scss",
+		"/Users/gregsmith/Dropbox/webprojects/weatherApp/Todo",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/forecast.io.example.json",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/main/main.html",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/filters/farenheitFilter.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/directives/daily.html",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/directives/current.html",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/controllers/weatherController.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/services/forecast.js",
+		"/E/ownCloud/Web Projects/weatherApp/.tmp/serve/app/index.css",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/index.module.js",
+		"/E/ownCloud/Web Projects/weatherApp/bower.json",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/filters/celsiusFilter.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/directives/error.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/directives/error.html",
+		"/E/ownCloud/Web Projects/weatherApp/.gitignore",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/directives/daily.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/directives/current.js",
+		"/C/Users/Gerg/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript/closure.sublime-snippet",
+		"/E/ownCloud/Sublime/User/JavaScript/closure.sublime-snippet",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/filters/temperatureFilter.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/services/getCity.js",
+		"/E/ownCloud/Web Projects/weatherApp/gulp/styles.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/index.config.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/index.constants.js",
+		"/E/ownCloud/Web Projects/weatherApp/dist/styles/app-51e3034ee8.css",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/4 weather-icons-core.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/1 icon-variables/variables-day.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/1 icon-variables/variables-beaufort.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/icon-classes/classes-beaufort.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/weather-icons-wind.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/weather-icons-variables.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/weather-icons-core.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/weather-icons-classes.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/weather-icons.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/main.scss",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/css/weather-icons.css",
+		"/E/ownCloud/Web Projects/weatherApp/dist/styles/app-6b226e06d7.css",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/css/weather-icons-wind.css",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/sass/weather-icons-variables.scss",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/sass/icon-classes/classes-direction.scss",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/css/weather-icons.min.css",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/3_main/weather-icons.scss",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/sass/weather-icons-core.scss",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/sass/weather-icons.scss",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/sass/weather-icons-wind.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/3_main/weather-icons-variables.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/3_main/weather-icons-classes.scss",
+		"/E/ownCloud/Web Projects/weatherApp/weather-icons-master/sass/weather-icons-classes.scss",
+		"/C/Users/Gerg/AppData/Local/Temp/Temp1_weather-icons-master.zip/weather-icons-master/sass/icon-variables/variables-day.scss",
+		"/C/Users/Gerg/AppData/Local/Temp/Temp1_weather-icons-master.zip/weather-icons-master/sass/icon-classes/classes-day.scss",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/scss/weather-icons/wi-forecast-io.scss",
+		"/C/Users/Gerg/AppData/Local/Temp/Temp1_weather-icons-master.zip/weather-icons-master/README.md",
+		"/C/Users/Gerg/AppData/Local/Temp/Temp1_weather-icons-master.zip/weather-icons-master/sass/mappings/wi-forecast-io.scss",
+		"/C/Users/Gerg/AppData/Local/Temp/Temp1_weather-icons-master.zip/weather-icons-master/sass/weather-icons.scss",
+		"/C/Users/Gerg/AppData/Local/Temp/Temp1_weather-icons-master.zip/weather-icons-master/sass/weather-icons.min.scss",
+		"/E/ownCloud/Web Projects/weatherApp/.tmp/serve/index.html",
+		"/E/ownCloud/Web Projects/weatherApp/src/directives/current.html",
+		"/E/ownCloud/Web Projects/weatherApp/src/directives/daily.html",
+		"/E/ownCloud/Web Projects/weatherApp/src/directives/current.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/directives/daily.js",
+		"/E/ownCloud/Web Projects/weatherApp/.tmp/partials/templateCacheHtml.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/app/index.route.js",
+		"/E/ownCloud/Web Projects/weatherApp/src/index.html",
+		"/E/ownCloud/Web Projects/backup1/src/index.html",
+		"/E/ownCloud/Data/KEEPME",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/index.html",
+		"/C/Users/Gerg/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/E/ownCloud/Web Projects/weatherApp/app/scripts/main.js",
+		"/E/ownCloud/Web Projects/weatherApp/app/index.html",
+		"/E/ownCloud/Web Projects/weatherApp/css/style.css",
+		"/E/ownCloud/Web Projects/weatherApp/js/app.js",
+		"/E/ownCloud/Web Projects/weatherApp/index.html",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/scss/main.scss",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/main/authorDirective.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/main/gameController.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/partials/authors.html",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/partials/quotes.html",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/main/quoteDirective.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/bower.json",
+		"/E/ownCloud/Web Projects/dragAndDrop1/.tmp/partials/templateCacheHtml.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/.tmp/serve/index.html",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/scss/_variables.scss",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/partials/quoteSpace.html",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/main/main.controller.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/gulp/styles.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/index.constants.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/scss/variables.scss",
+		"/E/ownCloud/Web Projects/dragAndDrop1/.tmp/serve/app/index.css",
+		"/E/ownCloud/Web Projects/dragAndDrop1/gulp/inject.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/index.scss",
+		"/E/ownCloud/Web Projects/dragAndDrop1/gulp/scripts.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/gulp/build.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/index.html.backup",
+		"/E/ownCloud/Web Projects/dragAndDrop1/dist/styles/app-e5505249f9.css",
+		"/E/ownCloud/Web Projects/dragAndDrop1/dist/styles/vendor-1dddaadd0b.css",
+		"/E/ownCloud/Web Projects/dragAndDrop1/dist/scripts/app-aeb7d6376a.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/gulp/conf.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/index.module.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/index.config.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/index.run.js",
+		"/E/ownCloud/Web Projects/dragAndDrop1/src/app/index.route.js",
+		"/E/ownCloud/Notes/angularjsSkills.js",
+		"/E/ownCloud/Web Projects/UpToReactiveProgramming.json",
+		"/E/ownCloud/Web Projects/functional programming - concatAll.js",
+		"/E/ownCloud/Web Projects/OOP practice.js",
+		"/C/Users/Gerg/Desktop/Jasmine Standalone/spec/spies_spec.js",
+		"/C/Users/Gerg/Desktop/Jasmine Standalone/lib/spies_spec.js",
+		"/E/ownCloud/Web Projects/javascriptSkills.js",
+		"/E/ownCloud/Web Projects/javascript-koans-master/koans/AboutHigherOrderFunctions.js",
+		"/E/ownCloud/Web Projects/javascript-koans-master/koans/AboutApplyingWhatWeHaveLearnt.js",
+		"/E/ownCloud/Web Projects/javascript-koans-master/koans/AboutInheritance.js",
+		"/E/ownCloud/Web Projects/javascript-koans-master/koans/AboutMutability.js",
+		"/E/ownCloud/Web Projects/javascript-koans-master/koans/AboutObjects.js",
+		"/E/ownCloud/Web Projects/javascript-koans-master/koans/AboutFunctions.js",
+		"/E/ownCloud/Web Projects/javascript-koans-master/koans/AboutArrays.js",
+		"/E/ownCloud/Web Projects/Jasmine Standalone/spec/example_spec.js",
+		"/E/ownCloud/Web Projects/Jasmine Standalone/spec/PlayerSpec.js",
+		"/E/ownCloud/Web Projects/AngularDragAndDrop/gulpfile.js",
+		"/C/Users/Gerg/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Gerg/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/Zenburnesque.tmTheme",
+		"/C/Users/Gerg/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/ownCloud/Web Projects/MAMP Sites/AngularLynda/quiz_data.json",
+		"/E/ownCloud/Web Projects/MAMP Sites/AngularLynda/css/quiz.css",
+		"/E/ownCloud/Web Projects/MAMP Sites/AngularLynda/index.html"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"E:\\ownCloud\\Web Projects\\weatherApp\\src\\app\\scss\\weather-icons\\mappings",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"md",
+			".switch",
+			"12%",
+			".switch",
+			"farenheit",
+			"comp",
+			"jumbot",
+			"$dir",
+			"\"",
+			"icon-classes",
+			"icon-variables",
+			"city",
+			"success",
+			":",
+			"temperature",
+			"$scope",
+			"$index",
+			"$scope.nameList = $scope.fullList.map(function(x){\n			return x.name;\n		}));",
+			"insertInline",
+			"jqyoui-draggable",
+			", multiple: true",
+			"inline-block",
+			"../fonts",
+			"starttag",
+			"inject",
+			"bower",
+			"name",
+			"map",
+			"});\n",
+			"right",
+			"white",
+			"draggable",
+			"console.log",
+			"light-grey",
+			"location",
+			"Location",
+			"location",
+			"h3",
+			"png",
+			"active",
+			"20px",
+			"web",
+			"40",
+			"array",
+			"jade",
+			"get",
+			"console.",
+			"update",
+			"score",
+			"canvas"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/index.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								153
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/services/forecast.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								80
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/services/getCity.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/controllers/weatherController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								105
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "weatherApp.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"routes/index.js"
+			],
+			[
+				"applicat",
+				"scss/application.scss"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"packa",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

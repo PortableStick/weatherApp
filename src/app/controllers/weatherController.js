@@ -3,7 +3,7 @@
 	'use strict';
 
 	angular.module('weatherApp')
-		.controller('WeatherController', ['forecast', '$scope','$geolocation', 'getCity',  '$log', function(forecast, $scope, $geolocation, getCity, $log){
+		.controller('WeatherController', ['forecast', '$scope','$geolocation', 'getCity',  function(forecast, $scope, $geolocation, getCity){
 			
 			$geolocation.getCurrentPosition()
 				.then(function(position){

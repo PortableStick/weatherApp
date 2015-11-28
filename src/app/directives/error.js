@@ -6,8 +6,8 @@
 		.directive('error',function(){
 			return {
 				restrict: 'E',
-				templateUrl: 'app/directives/error.html'
+				templateUrl: 'app/directives/error.html',
 			};
 		});
 
-})()
+})();
